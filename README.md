@@ -1,7 +1,4 @@
 # Random Quote Generator
-
-![Random Quote Generator](https://claytonseager.github.io/Quote-Generator/)
-
 Welcome to the Random Quote Generator project! This project was created to practice JavaScript and incorporates various features, including Event Listeners, DOM manipulation, and the use of a custom JSON API provided by a ZTM course instructor. You can view the live project hosted on GitHub Pages [here](https://claytonseager.github.io/Quote-Generator/).
 
 ## Introduction
