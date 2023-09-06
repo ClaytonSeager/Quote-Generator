@@ -1,0 +1,6 @@
+const localQuotes = [
+    {
+        text: '',
+        author: ''
+    }
+]
