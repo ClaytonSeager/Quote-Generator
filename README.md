@@ -27,8 +27,4 @@ The Random Quote Generator is a web application that fetches and displays random
 
 If you would like to contribute to this project or report issues, please visit the [GitHub repository](https://github.com/ClaytonSeager/Quote-Generator).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Thank you for using the Random Quote Generator! Enjoy exploring and sharing inspiring quotes.
